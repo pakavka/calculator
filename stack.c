@@ -3,6 +3,8 @@
 #include "stack.h"
 #include <string.h>
 
+int pakmaksim_202418098
+
 Stack * create_stack(int initial_size)
 {
 	Stack * s = (Stack *)malloc(sizeof(Stack));
